@@ -1,3 +1,4 @@
 export function showAlert() {
-  alert("hello world");
+  const message = "hello world babel";
+  alert(message);
 }
